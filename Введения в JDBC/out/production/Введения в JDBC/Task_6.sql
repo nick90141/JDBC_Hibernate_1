@@ -1,0 +1,7 @@
+CREATE DATABASE Task6;
+
+USE Task6;
+
+
+
+
